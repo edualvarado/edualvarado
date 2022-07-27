@@ -3,7 +3,10 @@
 </div>
 
 <p align="center">
-	<a href="https://www.edualvarado.com"><img src="gifs/car_final_256_header.gif" width="35%"></a>
+	<a href="https://www.edualvarado.com"><img src="gifs/coin_50px.gif" width="35%"></a>
+</p>
+
+<p align="center">
 	<a href="https://www.edualvarado.com"><img src="gifs/car_final_256_header.gif" width="35%"></a>
 </p>
 
