@@ -1,5 +1,6 @@
-[![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=edualvarado&count_private=true&include_all_commits=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+	[![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=edualvarado&count_private=true&include_all_commits=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 <p align="center">
 	<a href="https://www.edualvarado.com"><img src="gifs/car_final_256_header.gif" width="35%"></a>
