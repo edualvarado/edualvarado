@@ -3,12 +3,8 @@
 </div>
 
 <p align="center">
-	<a href="https://www.edualvarado.com"><img src="gifs/car_final_256_header.gif" width="35%"></a>
-</p>
-
-<p align="center">
-	Insert Coin!
-	<a href="https://www.edualvarado.com"><img src="gifs/coin_50px.gif" width="25" height="25" style="max-width: 15%; vertical-align: middle; margin-bottom: 5px;"></a>
+	<a href="https://www.edualvarado.com"><img src="gifs/car_final_256_header.gif" width="35%"></a><br>
+	Visit <a href="https://www.edualvarado.com">www.edualvarado.com</a>!
 </p>
 
 <!--
