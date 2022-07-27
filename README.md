@@ -1,5 +1,5 @@
 <p align="center">
-  [<img src="gifs/car_final_256_header.gif" width="35%">](https://www.edualvarado.com)
+	<a href="https://www.edualvarado.com"><img src="gifs/car_final_256_header.gif" width="35%"></a>
 </p>
 
 <!--
