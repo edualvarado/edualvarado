@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
-	<a href="https://www.edualvarado.com">Insert Coin!<img src="gifs/coin_50px.gif" width="25" height="25" style="max-width: 15%; vertical-align: middle; margin-bottom: 5px;"></a>
+	Insert Coin!
+	<a href="https://www.edualvarado.com"><img src="gifs/coin_50px.gif" width="25" height="25" style="max-width: 15%; vertical-align: middle; margin-bottom: 5px;"></a>
 </p>
 
 <!--
