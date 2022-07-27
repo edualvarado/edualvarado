@@ -1,5 +1,5 @@
 <div align="center">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=edualvarado&show_icons=true&theme=tokionight" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=edualvarado&count_private=true&include_all_commits=true&show_icons=true&theme=algolia" />
 </div>
 
 <p align="center">
