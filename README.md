@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: row;">
+<div align="center">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=edualvarado&show_icons=true&theme=radical" />
 </div>
 
