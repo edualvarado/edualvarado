@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="gifs/car_final_256_header.gif" width="100%">
+  <img src="gifs/car_final_256_header.gif" width="35%">
 </p>
 
 Go to [edualvarado.com](https://www.edualvarado.com) to know more!
