@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-	<a href="https://www.edualvarado.com">Insert Coin<span><img src="gifs/car_final_256_header.gif" width="35%"></span></a>
+	<a href="https://www.edualvarado.com"><img src="gifs/car_final_256_header.gif" width="35%"></a>
 	<a href="https://www.edualvarado.com"><img src="gifs/car_final_256_header.gif" width="35%"></a>
 </p>
 
