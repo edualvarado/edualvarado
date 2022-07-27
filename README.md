@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="gifs/car_final_256_header" width="100%">
+</p>
+
+Go to [edualvarado.com](https://www.edualvarado.com) to know more!
+
 <!--
 **edualvarado/edualvarado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
