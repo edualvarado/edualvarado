@@ -1,9 +1,14 @@
-Hi there! My name is Eduardo. I am a postdoctoral researcher at the Max Planck Institute for Informatics (Visual Computing and Artificial Intelligence). My research is centered on plausible, interactive and multi-scale 3D animation (physically-based, kinematic) of virtual characters in dynamic and deformable environments, with focus on authoring tools for the entertainment industry (games, VR).
+<p align="justify">
+Hi there! My name is Eduardo. I am a postdoctoral researcher at the Max Planck Institute for Informatics (Visual Computing and Artificial Intelligence). My research is centered on plausible, interactive, and multi-scale 3D animation (physically-based, kinematic) of virtual characters in dynamic and deformable environments, with a focus on authoring tools for the entertainment industry (games, VR).
+</p>
 
-More below!
+For more details about my research and projects, visit my website:
 
 <p align="center">
-	<a href="https://www.edualvarado.com"><img src="gifs/car_final_256_header.gif" width="35%"></a><br>
+	<a href="https://www.edualvarado.com">
+		<img src="gifs/car_final_256_header.gif" width="35%">
+	</a><br>
+	<sub>Click the image to visit my website.</sub>
 </p>
 
 <!--
