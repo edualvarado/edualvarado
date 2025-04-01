@@ -2,7 +2,7 @@
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=edualvarado&count_private=true&hide=contribs&include_all_commits=true&show_icons=true&theme=vue-dark" />
 </div>
 
-[![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=edualvarado&count_private=true&hide=contribs&include_all_commits=true&show_icons=true&theme=vue-dark)]
+[![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=edualvarado)]
 
 
 <p align="center">
