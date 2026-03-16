@@ -5,15 +5,11 @@
   <a href="https://www.edualvarado.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Postdoctoral+Researcher+at+MPI+for+Informatics;Specializing+in+Human+Motion+and+Virtual+Avatars;Building+Authoring+Tools+for+Games+%26+VR" alt="Typing SVG" />
   </a>
-
-  <br><br>
-
+  <br>
   <p align="justify" style="max-width: 800px; margin: 0 auto;">
     My research is centered on plausible, interactive, and multi-scale 3D animation (physically-based, kinematic) of virtual characters in dynamic and deformable environments, with a focus on authoring tools for the entertainment industry.
   </p>
-
   <br>
-
   <h3>Explore My Research & Projects:</h3>
   
   <a href="https://www.edualvarado.com">
