@@ -17,7 +17,7 @@
   <h3>Explore My Research & Projects:</h3>
   
   <a href="https://www.edualvarado.com">
-    <img src="gifs/car_final_256_header.gif" width="40%" alt="Car Animation Project">
+    <img src="gifs/bot_final_128_header.gif" width="40%" alt="Bot">
   </a><br>
   <sub>Click the image to visit my website.</sub>
 
