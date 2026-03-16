@@ -9,9 +9,8 @@
   <p align="justify" style="max-width: 800px; margin: 0 auto;">
     My research is centered on plausible, interactive, and multi-scale 3D animation (physically-based, kinematic) of virtual characters in dynamic and deformable environments, with a focus on authoring tools for the entertainment industry.
   </p>
-  <br>
+
   <h3>Explore My Research & Projects:</h3>
-  
   <a href="https://www.edualvarado.com">
     <img src="gifs/bot_final_128_header.gif" width="15%" alt="Bot">
   </a><br>
