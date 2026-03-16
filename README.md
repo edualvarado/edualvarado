@@ -1,37 +1,27 @@
+<div align="center">
 
-<h1 align="center">Hi there, I'm Eduardo! 👋</h1>
-
-<p align="center">
+  <h1>Hi there! My name is Eduardo.</h1>
+  
   <a href="https://www.edualvarado.com">
-    <img src="https://img.shields.io/badge/Portfolio-Website-14192E?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Postdoctoral+Researcher+at+MPI+for+Informatics;Specializing+in+Interactive+3D+Animation;Building+Authoring+Tools+for+Games+%26+VR" alt="Typing SVG" />
   </a>
-  <a href="https://github.com/edualvarado">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+
+  <br><br>
+
+  <p align="justify" style="max-width: 800px; margin: 0 auto;">
+    My research is centered on plausible, interactive, and multi-scale 3D animation (physically-based, kinematic) of virtual characters in dynamic and deformable environments, with a focus on authoring tools for the entertainment industry.
   </p>
 
-<br>
+  <br>
 
-<table align="center" style="border: none;">
-  <tr style="border: none;">
-    <td width="60%" style="border: none;">
-      <h3>👨‍💻 About Me</h3>
-      <p align="justify">
-        I am a Postdoctoral Researcher at the <b>Max Planck Institute for Informatics</b> (Visual Computing and Artificial Intelligence). 
-      </p>
-      <p align="justify">
-        My research is centered on plausible, interactive, and multi-scale <b>3D animation</b> (physically-based, kinematic) of virtual characters in dynamic and deformable environments. I have a strong focus on building authoring tools for the entertainment industry, particularly in <b>Games and VR</b>.
-      </p>
-    </td>
-    <td width="40%" align="center" style="border: none;">
-      <a href="https://www.edualvarado.com">
-        <img src="gifs/car_final_256_header.gif" width="100%" alt="3D Animation Demo" style="border-radius: 10px;">
-      </a>
-      <br>
-      <sub><i>✨ Click the animation to visit my website!</i></sub>
-    </td>
-  </tr>
-</table>
+  <h3>Explore My Research & Projects:</h3>
+  
+  <a href="https://www.edualvarado.com">
+    <img src="gifs/car_final_256_header.gif" width="40%" alt="Car Animation Project">
+  </a><br>
+  <sub>Click the image to visit my website.</sub>
+
+</div>
 
 <!--
 <p align="justify">
